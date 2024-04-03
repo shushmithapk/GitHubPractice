@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="oTTplatforms.AmazonPrime_Test"/>
+      <class name="oTTplatforms.Hotstar_Test"/>
+      <class name="oTTplatforms.Jiocinema_Test"/>
+      <class name="oTTplatforms.Netflix_Test"/>
+      <class name="oTTplatforms.SunNxt_Test"/>
+      <class name="oTTplatforms.Zee5_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
