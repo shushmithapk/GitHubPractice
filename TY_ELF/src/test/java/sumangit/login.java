@@ -2,7 +2,7 @@ package sumangit;
 
 import org.testng.annotations.Test;
 
-public class login {
+public class Login {
 	
 	@Test
 	public static void login() {
